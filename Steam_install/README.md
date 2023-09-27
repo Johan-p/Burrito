@@ -62,9 +62,6 @@ gamemoderun $PROTON_PATH "/home/$USER/Executables/Burrito_Linux/burrito_link.exe
 
 ```
 
-# Command
-
-gamemoderun $PROTON_PATH "/home/$USER/Executables/Burrito_Linux/burrito_link.exe"
 
 # Start Guild Wars 2
 
