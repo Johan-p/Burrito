@@ -20,7 +20,7 @@ add %command% -provider Portal.
 
 >  move files to Executables folder and extract them
 
-Edit the run_burrito_link.sh file and Make it executable. 
+# Edit the run_burrito_link.sh file and Make it executable. 
 > ```chmod u+x un_burrito_link.sh```
 
 > Example below is with ge-proton
