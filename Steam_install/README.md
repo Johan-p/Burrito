@@ -13,7 +13,7 @@ add %command% -provider Portal.
     echo /home/$(whoami)/.local/share/Steam/steamapps/compatdata/1284210/pfx
 ```
 
-# Download Burrito and extract anywhere suitable
+# Download Burrito and extract
 > ``` cd /home/$USER/ ```
 
 > ``` Mkdir Executables ```
