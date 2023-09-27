@@ -1,8 +1,8 @@
 #!/bin/bash
 
 USER=$(whoami)
-PROTON="GE-Proton7-55"
-PROTON_PATH="/home/$USER/.local/share/Steam/compatibilitytools.d/$PROTON/files/bin/wine"
+PROTON="Proton8.0-3"
+PROTON_PATH="~/.steam/steam/steamapps/common/Proton/$PROTON/files/bin/wine"
 GUILD_WARS_PATH="/home/$USER/.local/share/Steam/steamapps/common/Guild Wars 2"
 GUILD_WARS_PREFIX_PATH="/home/$USER/.local/share/Steam/steamapps/compatdata/1284210/pfx"
 # Environment variables
