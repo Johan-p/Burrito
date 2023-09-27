@@ -24,17 +24,13 @@ add %command% -provider Portal.
 > ```chmod u+x un_burrito_link.sh```
 
 > Example below is with ge-proton
+
 https://github.com/GloriousEggroll/proton-ge-custom
 
 > Example included in files is for proton 8
-https://github.com/ValveSoftware/Proton
-
-
-```
-    Edit "/home/$USER/Executables/Burrito_Linux/burrito_link.exe" to point to burrito_link.exe
-```
 
 https://github.com/ValveSoftware/Proton
+
 
 ```
 #!/bin/bash
